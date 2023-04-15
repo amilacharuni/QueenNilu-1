@@ -7,16 +7,16 @@ const chalk = require('chalk')
 */
 
 //Owner Number & Name 
-global.owner = ['94767438882'] //ur owner number
-global.ownername = "Janith sadanuwan" //ur owner name
+global.owner = ['94771829019'] //ur owner number
+global.ownername = "Amila Pathum" //ur owner name
 
 //Bot Name 
-global.botname = 'ǫᴜᴇᴇɴ ɴɪʟᴜ' //ur bot name
-global.wm = "ǫᴜᴇᴇɴ ɴɪʟᴜ" //ur watermark
+global.botname = 'BLACK ZEE ' //ur bot name
+global.wm = "BLACK ZEE " //ur watermark
 
 global.keyopenai = "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",
 //React Messages 
-global.OWNER_REACT = '🥀' //Owner's Messages react emoji
+global.OWNER_REACT = '🤖' //Owner's Messages react emoji
 global.AUTO_REACT = 'true' // React Messags auto
 
 
@@ -33,7 +33,7 @@ global.READ_MASSAGE = true
 global.VOICE_REPLY = true
 
 // Do you want show time on your bio use "true" want desable use "false"
-global.AUTO_BIO = false
+global.AUTO_BIO = true
 
 // Inbox massage block PM block
 global.INBOX_BLOCK = false
@@ -61,10 +61,10 @@ global.SONG_UP = '```⬆️ Uploding Your Song...```'
 global.SEX_VIDEO_DOWNLOAD ='true'
 
 //Kick Message 
-global.KICK_MSG = ' ' 
+global.KICK_MSG = 'true' 
 
 //Links (URLS)
-global.ytname = "YT: janithsadanuwan" //ur yt chanel name
+global.ytname = "YT: Black Zee" //ur yt chanel name
 global.socialm = "GitHub: janithsadanuwan" //ur github or insta name
 global.linkz = "https://chat.whatsapp.com/" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/c/janithsadanuwan" //ur website to be displayed
@@ -75,7 +75,7 @@ global.alivelogo = process.env.ALIVE_LOGO || `https://te.legra.ph/file/a9293226a
 global.alive = process.env.ALIVE_MESSAGE 
 
 //Sticker Making 
-global.packname = "ǫᴜᴇᴇɴ ɴɪʟᴜ 💃" 
+global.packname = " BLACK ZEE 💃" 
 
 //Anti Bad Word
 global.ANTI_BADWORD = 'true'
